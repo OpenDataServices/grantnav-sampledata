@@ -77,5 +77,30 @@
             "datetime_downloaded": "2000-01-01T11:43:27+01:00"
         },
         "description": ""
+    },
+    {
+      "license_name":"Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "distribution":[
+        {
+          "downloadURL":"https://esmeefairbairn.org.uk/userfiles/Documents/Grants%20list/Esmee_Grants_Since_2008.json",
+          "accessURL":"https://esmeefairbairn.org.uk/open-data",
+          "title":"Esmée Fairbairn Foundation grants and social investments made since 2008"
+        }
+      ],
+      "publisher": {
+          "name":"Esmee Fairbairn Foundation",
+          "website":"http://esmeefairbairn.org.uk/",
+          "logo":"http://www.threesixtygiving.org/wp-content/uploads/esmee-fairbairn-foundation.png",
+          "prefix":"360G-esmeefairbairn"
+       },
+      "identifier":"a002400000G4KGjAAN",
+      "title":"Esmée Fairbairn Foundation grants and social investments made since 2008",
+      "datagetter_metadata": {
+            "valid": true,
+            "acceptable_license": true,
+            "file_type": "json",
+            "datetime_downloaded": "2000-01-01T11:43:27+01:00"
+      },
+      "description":"All grants and social investments awarded from January 2008 to June 2017."
     }
 ]
